@@ -10,7 +10,7 @@ Once you've installed Logisim Evolution, you can open the .circ files in this re
 ## Contents ##
 
 This repository contains:
-1- Kogge–Stone 32-bit
+1- Kogge–Stone 32-bit:
 Kogge-Stone is a parallel algorithm for performing addition and subtraction operations on binary numbers.The algorithm works by breaking down the addition or subtraction operation into smaller sub-problems that can be solved in parallel. The algorithm uses a tree-like structure to perform the operations, with each level of the tree representing a different bit position in the binary numbers being added or subtracted. At each level of the tree, the algorithm performs a carry-lookahead operation to determine the carry-in and carry-out values for that level. This allows the algorithm to quickly propagate carry values through the tree and perform the addition or subtraction in parallel.
 
 ## How to Use This Repository? ##
